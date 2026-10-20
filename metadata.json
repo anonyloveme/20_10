@@ -1,0 +1,6 @@
+{
+  "name": "LoveLy - Nơi chia sẻ yêu thương",
+  "description": "Kho source code website tình yêu, app tiện ích, thiệp sinh nhật, quà tặng lãng mạn miễn phí.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
